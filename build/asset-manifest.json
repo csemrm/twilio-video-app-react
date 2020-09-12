@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.ead603dd.chunk.js",
-    "main.js.map": "/static/js/main.ead603dd.chunk.js.map",
+    "main.js": "/static/js/main.00b76019.chunk.js",
+    "main.js.map": "/static/js/main.00b76019.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d9f235a9.js",
     "runtime-main.js.map": "/static/js/runtime-main.d9f235a9.js.map",
-    "static/js/2.e0f1437c.chunk.js": "/static/js/2.e0f1437c.chunk.js",
-    "static/js/2.e0f1437c.chunk.js.map": "/static/js/2.e0f1437c.chunk.js.map",
+    "static/js/2.4ab83f9b.chunk.js": "/static/js/2.4ab83f9b.chunk.js",
+    "static/js/2.4ab83f9b.chunk.js.map": "/static/js/2.4ab83f9b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.538e05a0dd6870c34a41ca0151800dd9.js": "/precache-manifest.538e05a0dd6870c34a41ca0151800dd9.js",
+    "precache-manifest.5a2772abb5f5b350f458d9f08a9ff73b.js": "/precache-manifest.5a2772abb5f5b350f458d9f08a9ff73b.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.e0f1437c.chunk.js.LICENSE.txt": "/static/js/2.e0f1437c.chunk.js.LICENSE.txt",
+    "static/js/2.4ab83f9b.chunk.js.LICENSE.txt": "/static/js/2.4ab83f9b.chunk.js.LICENSE.txt",
     "static/media/google-logo.1b8c51ce.svg": "/static/media/google-logo.1b8c51ce.svg",
     "static/media/twilio-logo.0e04ea74.svg": "/static/media/twilio-logo.0e04ea74.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d9f235a9.js",
-    "static/js/2.e0f1437c.chunk.js",
-    "static/js/main.ead603dd.chunk.js"
+    "static/js/2.4ab83f9b.chunk.js",
+    "static/js/main.00b76019.chunk.js"
   ]
 }
